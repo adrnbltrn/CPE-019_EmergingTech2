@@ -1,38 +1,23 @@
-# Project Title
+# CPE 019 Repository
 
-Short description of your project.
+Welcome to my repository for the Emerging Technologies 2 Subject! This space is dedicated to storing and organizing code related to my academic studies.
 
-## Table of Contents
+## About This Repository
 
-- [Project Title](#project-title)
-  - [Table of Contents](#table-of-contents)
-  - [About the Project](#about-the-project)
-  - [Getting Started](#getting-started)
-    - [Prerequisites](#prerequisites)
-    - [Installation](#installation)
-  - [Usage](#usage)
-  - [Contributing](#contributing)
-  - [License](#license)
-  - [Contact](#contact)
+This repository serves as a personal storage space for the code I am going to write during my school assignments, projects, and coursework. 
 
-## About the Project
+## About Me
 
-Provide a brief introduction to your project. What does it do? Why did you create it? Mention any key features or goals.
+Hi, I'm Adrian David M. Beltran! I'm a 3rd Year CPE student. This repository is a reflection of my journey through academic programming, and I hope you find the code snippets and projects here useful or interesting.
 
-## Getting Started
+## Usage
 
-Guide users through getting your project up and running on their local machine. If there are specific steps or dependencies, make sure to include them here.
+This repository primarily serves as a reference for my school-related coding endeavors. As this repository is personal and mainly for archival purposes, contributions are not expected.
 
-### Prerequisites
+## License
 
-List any software, libraries, or tools that users need to have installed before they can use your project.
+This code repository is not open for external use or redistribution. All rights reserved.
 
-### Installation
+## Contact
 
-Provide step-by-step instructions on how to install your project. You can use code snippets if necessary.
-
-```bash
-# Example installation steps
-git clone https://github.com/your-username/your-repo.git
-cd your-repo
-npm install
+- Email: qadbeltran01@tip.edu.ph
