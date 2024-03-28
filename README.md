@@ -8,7 +8,7 @@ This repository serves as a personal storage space for the code I am going to wr
 
 ## About Me
 
-Hi, I'm Adrian David M. Beltran! I'm a 3rd Year CPE student. This repository is a reflection of my journey through academic programming, and I hope you find the code snippets and projects here useful or interesting.
+I'm a 3rd Year CPE student. This repository is a reflection of my journey through academic programming, and I hope you find the code snippets and projects here useful or interesting.
 
 ## Usage
 
